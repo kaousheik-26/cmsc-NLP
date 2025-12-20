@@ -22,7 +22,7 @@ We evaluate models on the following datasets:
 
 The following configurations of Qwen3 were tested:
 * **Base Models:** Qwen3-0.6B, Qwen3-4B
-* **Fine-tuned/Merged Variants:**
+* **Judge Variants:**
     * `openai/gpt-oss-20b`
     * `Qwen/Qwen3-14B`
     * `Qwen/Qwen3-30B-A3B`
